@@ -1,0 +1,11 @@
+
+#show_sketch{
+   float:right;
+
+}
+#clear_canvas{
+    text-align: center;
+}
+Body{
+    background-color: goldenrod;
+}
